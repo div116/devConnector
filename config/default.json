@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://div11:div11@devconnector.6clut.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "divjwtsecret",
+    "githubClientId": "ceda96ff8661bd08f92d",
+    "githubSecret": " 87c6e07b4ef89f2d55299c14448f0484bd6eddea"
+}
